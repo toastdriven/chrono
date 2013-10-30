@@ -32,6 +32,14 @@ __license__ = 'BSD'
 class Timer(object):
     """
     A context manager that times the code it wraps.
+
+    Usage::
+
+        with Timer() as timed:
+            # Code goes here.
+
+        print(timed.elapsed)
+
     """
     def __init__(self):
         self.start = None
