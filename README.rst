@@ -64,5 +64,9 @@ Running::
 Changelog
 =========
 
+v1.0.1
+    * Added initial docs
+    * Fixed up the main docstring in ``Timer``
+
 v1.0.0
     * Initial release
