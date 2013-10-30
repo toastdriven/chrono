@@ -33,6 +33,12 @@ License
 BSD
 
 
+Docs
+====
+
+http://chrono-bench.readthedocs.org/en/latest/
+
+
 Shortcomings
 ============
 
@@ -63,6 +69,9 @@ Running::
 
 Changelog
 =========
+
+Dev
+    * Added links to the docs
 
 v1.0.1
     * Added initial docs
