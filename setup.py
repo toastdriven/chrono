@@ -6,7 +6,7 @@ except ImportError:
 
 setup(
     name="chrono",
-    version="1.0.1",
+    version="1.0.2",
     description="A (BSD licensed) context manager for timing execution.",
     author='Daniel Lindsley',
     author_email='daniel@toastdriven.com',
