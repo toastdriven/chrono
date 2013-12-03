@@ -71,6 +71,12 @@ Changelog
 =========
 
 Dev
+    *
+
+v1.0.2
+    * Added wheel integration
+    * Added a fallback for unittest2
+    * Added TravisCI integration
     * Added links to the docs
 
 v1.0.1
